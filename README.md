@@ -1,6 +1,4 @@
 # Doctor-Patient-Record-Management-System
-# Doctor and Patient Record Management System | MySQL
-
 ## 📌 Project Overview
 The Doctor and Patient Record Management System is a database management project developed using MySQL to organize and analyze hospital records. It helps manage patient details, doctor information, departments, appointments, and consultation fees through SQL queries and views.
 
